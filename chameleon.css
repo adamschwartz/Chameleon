@@ -85,36 +85,36 @@
 /*PINTEREST*/
 .pinterest{background: #910101;}
 /*READABILITY*/
-a[href*="readability"]{color: #9c0000;}
+.readability{background: #9c0000;}
 /*RSS*/
-a[href*="rss"]{color: #ee802f;}
+.rss{background: #ee802f;}
 /*SKYPE*/
-a[href*="skype"]{color: #00aff0;}
+.skype{background: #00aff0;}
 /*SOUNDCLOUD*/
-a[href*="soundcloud"]{color: #ff7700;}
+.soundcloud{background: #ff7700;}
 /*SPOTIFY*/
-a[href*="spotify"]{color: #64b41a;}
+.spotify{background: #64b41a;}
 /*STUMBLEUPON*/
-a[href*="stumbleupon"]{color: #f74425;}
+.stumbleupon{background: #f74425;}
 /*TECHNORATI*/
-a[href*="technorati"]{color: #40a800;}
+.technorati{background: #40a800;}
 /*THENEXTWEB*/
-a[href*="thenextweb"]{color: #ef4423;}
+.thenextweb{background: #ef4423;}
 /*TUMBLR*/
-a[href*="tumblr"]{color: #34526f;}
+.tumblr{background: #34526f;}
 /*TWITTER*/
-a[href*="twitter"],a[href*="t.co"]{color: #00a0d1;}
+.twitter{background: #00a0d1;}
 /*VIMEO*/
-a[href*="vimeo"]{color: #86c9ef;}
+.vimeo{background: #86c9ef;}
 /*VINE*/
-a[href*="vine.co"]{color: #00a478;}
+.vine{background: #00a478;}
 /*WORDPRESS*/
-a[href*="wordpress"]{color: #21759b;}
+.wordpress{background: #21759b;}
 /*YAHOO*/
-a[href*="yahoo"]{color: #720e9e;}
+.yahoo{background: #720e9e;}
 /*YELP*/
-a[href*="yelp"]{color: #c41200;}
+.yelp{background: #c41200;}
 /*YOUTUBE*/
-a[href*="youtube"]{color: #c4302b;}
+.youtube{background: #c4302b;}
 /*ZERPLY*/
-a[href*="zerp"],a[href*="zerply"]{color: #9dcc7a;}
+.zerply{background: #9dcc7a;}
