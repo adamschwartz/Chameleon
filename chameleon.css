@@ -9,81 +9,81 @@
 /*AMAZON*/
 .amazon{background: #e47911;}
 /*ANDROID*/
-a[href*="android"]{color: #a4c639;}
+.android{background: #a4c639;}
 /*AOL*/
-a[href*="aol"]{color: #0060A3;}
+.aol{background: #0060A3;}
 /*BEHANCE*/
-a[href*="behance"]{color: #053eff;}
+.behance{background: #053eff;}
 /*BLOGGER*/
-a[href*="blogger"]{color: #fc4f08;}
+.blogger{background: #fc4f08;}
 /*CARBONMADE*/
-a[href*="carbonmade"]{color: #613854;}
+.carbonmade{background: #613854;}
 /*CODE SCHOOL*/
-a[href*="codeschool"]{color: #3d4944;}
+.codeschool{background: #3d4944;}
 /*DELICIOUS*/
-a[href*="delicious"], a[href*="delicio"]{color: #205cc0;}
+.delicious{background: #205cc0;}
 /*DESIGNMOO*/
-a[href*="designmoo"]{color: #e54a4f;}
+.designmoo{background: #e54a4f;}
 /*DEVIANTART*/
-a[href*="deviantart"]{color: #4e6252;}
+.deviantart{background: #4e6252;}
 /*DISQUS*/
-a[href*="disqus"]{color: #db7132;}
+.disqus{background: #db7132;}
 /*DRIBBBLE*/
-a[href*="dribbble"]{color: #ea4c89;}
+.dribbble{background: #ea4c89;}
 /*DROPBOX*/
-a[href*="dropbox"]{color: #3d9ae8;}
+.dropbox{background: #3d9ae8;}
 /*DRUPAL*/
-a[href*="drupal"]{color: #0c76ab;}
+.drupal{background: #0c76ab;}
 /*DUNKED*/
-a[href*="dunked"]{color: #2a323a;}
+.dunked{background: #2a323a;}
 /*EBAY*/
-a[href*="ebay"]{color: #89c507;}
+.ebay{background: #89c507;}
 /*ENGADGET*/
-a[href*="engadget"]{color: #00bdf6;}
+.engadget{background: #00bdf6;}
 /*ENVATO*/
-a[href*="envato"]{color: #528036}
+.envato{background: #528036}
 /*ETSY*/
-a[href*="etsy"]{color: #eb6d20;}
+.etsy{background: #eb6d20;}
 /*EVERNOTE*/
-a[href*="evernote"]{color: #5ba525;}
+.evernote{background: #5ba525;}
 /*FACEBOOK*/
-a[href*="facebook"]{color: #3b5998;}
+.facebook{background: #3b5998;}
 /*FLICKR*/
-a[href*="flickr"]{color: #ff0084;}
+.flickr{background: #ff0084;}
 /*FORRST*/
-a[href*="forrst"]{color: #5b9a68;}
+.forrst{background: #5b9a68;}
 /*FOURSQUARE*/
-a[href*="foursquare"]{color: #25a0ca;}
+.foursquare{background: #25a0ca;}
 /*GETGLUE*/
-a[href*="getglue"]{color: #2d75a2;}
+.getglue{background: #2d75a2;}
 /*GITHUB*/
-a[href*="github"]{color: #4183c4;}
+.github{background: #4183c4;}
 /*GOOGLE+*/
-a[href*="plus.google"]{color: #db4a39;}
+.google-plus{background: #db4a39;}
 /*GOOGLE*/
-a[href*="google"]{color: #0266c8;}
+.google{background: #0266c8;}
 /*GROOVESHARK*/
-a[href*="grooveshark"]{color: #f77f00;}
+.grooveshark{background: #f77f00;}
 /*IMDB*/
-a[href*="imdb"]{color: #f3ce13;}
+.imdb{background: #f3ce13;}
 /*INSTAGRAM*/
-a[href*="instagram"],a[href*="instagr"]{color: #634d40;}
+.instagram{background: #634d40;}
 /*KICKSTARTER*/
-a[href*="kickstarter"]{color: #87c442;}
+.kickstarter{background: #87c442;}
 /*LASTFM*/
-a[href*="last"]{color: #c3000d;}
+.last{background: #c3000d;}
 /*LINKEDIN*/
-a[href*="linkedin"]{color: #0e76a8;}
+.linkedin{background: #0e76a8;}
 /*MEETUP*/
-a[href*="meetup"]{color: #e51937;}
+.meetup{background: #e51937;}
 /*NICOVANZYL*/
-a[href*="nicovanzyl"]{color: #ff6000;}
+.nicovanzyl{background: #ff6000;}
 /*PATH*/
-a[href*="path"]{color: #e41f11;}
+.path{background: #e41f11;}
 /*PAYPAL*/
-a[href*="paypal"]{color: #3b7bbf;}
+.paypal{background: #3b7bbf;}
 /*PINTEREST*/
-a[href*="pinterest"]{color: #910101;}
+.pinterest{background: #910101;}
 /*READABILITY*/
 a[href*="readability"]{color: #9c0000;}
 /*RSS*/
@@ -118,20 +118,3 @@ a[href*="yelp"]{color: #c41200;}
 a[href*="youtube"]{color: #c4302b;}
 /*ZERPLY*/
 a[href*="zerp"],a[href*="zerply"]{color: #9dcc7a;}
-
-/*Customize------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------*/
-a{
-	-webkit-transition:color 0.20s ease-in-out;
-	-moz-transition:color 0.20s ease-in-out;
-	-o-transition:color 0.20s ease-in-out;
-	transition:color 0.20s ease-in-out;
-	text-decoration: none !important;
-	
-}
-a:hover{ text-decoration: underline;}
-.color-back a{
-	text-shadow: 0px 0px 3px rgba(51, 51, 51, 0.6);
-}
-
-/*-------------------------------------------------------------------------------------------------------------------*/
