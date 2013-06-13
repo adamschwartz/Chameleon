@@ -1,15 +1,13 @@
-/*THE-LINK-COLORS------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------*/
 /*500px*/
-a[href*="500px"]{color: #02adea;}
+.500px{background: #02adea;}
 /*ABOUT.ME*/
-a[href*="about.me"]{color: #00405d;}
+.aboutme{background: #00405d;}
 /*ADOBE*/
-a[href*="adobe"]{color: #ff0000;}
+.adobe{background: #ff0000;}
 /*AIM*/
-a[href*="aim"]{color: #fcd20b;}
+.aim{background: #fcd20b;}
 /*AMAZON*/
-a[href*="amazon"]{color: #e47911;}
+.amazon{background: #e47911;}
 /*ANDROID*/
 a[href*="android"]{color: #a4c639;}
 /*AOL*/
